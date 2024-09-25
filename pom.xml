@@ -134,7 +134,7 @@
         </dependency>
         <dependency>
             <groupId>com.krickert.search</groupId>
-            <artifactId>wikisearch-model</artifactId>
+            <artifactId>search-models</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
